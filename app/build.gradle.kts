@@ -8,8 +8,8 @@ android {
         applicationId = "com.endramath.app"
         minSdk = 26
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0-checkpoint-a"
+        versionCode = 2
+        versionName = "1.0-checkpoint-a-theme"
         testInstrumentationRunner = "android.test.InstrumentationTestRunner"
     }
     signingConfigs.getByName("debug") {

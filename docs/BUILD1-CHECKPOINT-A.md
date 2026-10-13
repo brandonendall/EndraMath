@@ -1,5 +1,8 @@
 # EndraMath Build 1 — Checkpoint A
 
+Original version-code-1 foundation record. For the current version-code-2 theme
+update and supplied homepage artwork, see THEME-UPDATE-A.md.
+
 Creator, owner, and project lead: Kat. The repository account is hosting only.
 
 Base: main at 02052db1f306d0ad2638187e3c1dff17d3d33fe7.

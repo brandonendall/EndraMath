@@ -41,7 +41,7 @@ class NavigationTest : InstrumentationTestCase() {
         click("No dragon"); click("Home")
         click("Continue learning • One"); click("Early Number Academy"); shows("being prepared")
         click("Explore other academies"); click("Arithmetic Academy"); shows("Arithmetic Academy"); click("Home")
-        click("Choose or edit learners"); click("Select Two")
+        click("Welcome, One! • Choose or edit learners"); click("Select Two")
         assertEquals("two", LearnerRepository(context).selected()!!.id)
         shows("Continue learning • Two")
         instrumentation.runOnMainSync { activity.finish() }

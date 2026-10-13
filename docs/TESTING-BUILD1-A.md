@@ -1,5 +1,8 @@
 # Build 1 Checkpoint A verification
 
+Original version-code-1 verification record. Theme update validation is recorded
+in THEME-UPDATE-A.md.
+
 Status: ready for Kat's device testing; not approved or merged.
 
 Completed in the build environment:
