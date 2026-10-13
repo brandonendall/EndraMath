@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="square_high_detail_fantasy_app_icon_style_illustr.png" alt="EndraMath official orange-and-gold dragon logo" width="360" />
+
 # 🐉 EndraMath
 
 **A magical place to learn mathematics — at your own pace.**
@@ -7,8 +9,6 @@
 *Pre-K foundations through college-level mathematics.*
 
 </div>
-
-> **Design note:** The approved orange-and-gold EndraMath logo is the official project artwork. Its binary image asset will be added to this repository when the image upload path is available; this README will then display it above the title.
 
 ## Our promise
 
