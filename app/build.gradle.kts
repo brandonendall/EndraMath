@@ -12,6 +12,12 @@ android {
         versionName = "1.0-checkpoint-a"
         testInstrumentationRunner = "android.test.InstrumentationTestRunner"
     }
+    signingConfigs.getByName("debug") {
+        storeFile = rootProject.file("config/endramath-debug.keystore")
+        storePassword = "android"
+        keyAlias = "androiddebugkey"
+        keyPassword = "android"
+    }
     compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }
     kotlinOptions { jvmTarget = "17" }
 }

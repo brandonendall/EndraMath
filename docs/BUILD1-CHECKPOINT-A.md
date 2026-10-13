@@ -64,3 +64,10 @@ Accessibility settings or very short landscape windows may require home scrollin
 so controls remain reachable instead of clipped.
 
 Approval requires Kat's explicit acceptance after installing and testing.
+
+## Debug install continuity
+
+The included config/endramath-debug.keystore is a public development-only key,
+with standard Android debug passwords. Local and CI debug builds reuse this key
+so later debug checkpoints can update this install while preserving local data.
+It must never be used for a production or Play Store release.
