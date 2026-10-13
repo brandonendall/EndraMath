@@ -2,7 +2,7 @@
 
 <img src="square_high_detail_fantasy_app_icon_style_illustr.png" alt="EndraMath official orange-and-gold dragon logo" width="360" />
 
-# 🐉 EndraMath
+# EndraMath
 
 **A magical place to learn mathematics — at your own pace.**
 
