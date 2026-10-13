@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EndraMath</string>
+    <string name="home">Home</string>
+    <string name="larger_text">Larger text</string>
+</resources>
